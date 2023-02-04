@@ -1,0 +1,138 @@
+.heading{
+    color: rgb(6, 132, 250);
+    font-family: Arial;
+    font-size: 70px;
+    font-weight: bold;
+    margin-bottom: 9px;
+    cursor: pointer;
+    text-shadow: 6px 6px 6px rgb(200, 200, 255);
+}
+
+.heading:active{
+    text-shadow: none;
+}
+
+.f-line{
+    font-family: Arial;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    font-size: 30px;
+}
+
+.s-line{
+    font-family: Arial;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    font-size: 30px;
+}
+
+.first-part{
+    margin-top: 290px;
+    margin-bottom: 0px;
+    margin-left: 100px;
+    margin-right: 0px;
+    text-align: left;
+}
+
+.form{
+    display: inline-block;
+    margin-left: 700px;
+    margin-top: -220px;
+    background-color: white;
+    width: 410px;
+    height: 310px;
+    border-radius: 8px;
+    text-align: center;
+    box-shadow: 6px 6px 6px gainsboro;
+}
+
+body{
+    background-color: rgb(238, 238, 238);
+}
+
+.borders{
+    border: none;
+}
+
+.email{
+    width: 360px;
+    height: 35px;
+    margin-top: 10px;
+    border-radius: 6px;
+    border-width: 1px;
+    border-style: solid;
+    padding-left: 10px;
+    cursor: pointer;
+}
+
+.password{
+    width: 360px;
+    height: 35px;
+    margin-top: 10px;
+    border-radius: 6px;
+    border-width: 1px;
+    border-style: solid;
+    padding-left: 10px;
+    cursor: pointer;
+}
+
+.login{
+    background-color: rgb(6, 132, 250);
+    border: none;
+    border-radius: 6px;
+    width: 373px;
+    height: 40px;
+    margin-top: 10px;
+    color: white;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.login:hover{
+    background-color: rgb(31, 143, 248);
+}
+
+.login:active{
+    background-color: rgb(88, 117, 243);
+}
+
+.forgot{
+    color: rgb(6, 132, 250);
+    font-family: Arial;
+    cursor: cell;
+}
+
+.forgot:active{
+    cursor: progress;
+}
+
+.account{
+    background-color: rgb(109, 184, 94);
+    border: none;
+    border-radius: 6px;
+    width: 250px;
+    height: 50px;
+    margin-top: 10px;
+    color: white;
+    font-weight: bold;
+
+}
+
+.account:hover{
+    background-color: rgb(135, 204, 121);
+}
+
+.account:active{
+    background-color: rgb(78, 148, 64);
+}
+
+.neeche{
+    margin-bottom: 0px;
+    margin-top: 50px;
+    font-family: Arial;
+    font-size: medium;
+}
+
+.face{
+    width: 100px;
+}
